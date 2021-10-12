@@ -1,2 +1,2 @@
-# terrafrom
+# terraform
 LinkedIn Terraform Course
